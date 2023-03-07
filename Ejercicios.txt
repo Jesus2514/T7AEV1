@@ -27,7 +27,7 @@
 
 #17 e. 2 subredes con 62 hosts
 
-#18
+#18 b. 128 subredes y 512 hosts
 
 #20
 
